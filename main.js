@@ -20,5 +20,5 @@ function animate(){
     car.draw(ctx);
 
     ctx.restore();
-    requestAnimationFrame(animate)
+    requestAnimationFrame(animate);
 }
